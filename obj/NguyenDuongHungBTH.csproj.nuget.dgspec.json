@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Hw\\PTPMQL\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {}
+    "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {}
   },
   "projects": {
-    "E:\\Hw\\PTPMQL\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {
+    "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Hw\\PTPMQL\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
+        "projectUniqueName": "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
         "projectName": "NguyenDuongHungBTH",
-        "projectPath": "E:\\Hw\\PTPMQL\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
+        "projectPath": "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "E:\\Hw\\PTPMQL\\NguyenDuongHungBTH\\obj\\",
+        "outputPath": "E:\\Games\\NguyenDuongHungBTH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"
