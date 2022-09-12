@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {}
+    "E:\\Hw\\Github edit project\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {}
   },
   "projects": {
-    "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {
+    "E:\\Hw\\Github edit project\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
+        "projectUniqueName": "E:\\Hw\\Github edit project\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
         "projectName": "NguyenDuongHungBTH",
-        "projectPath": "E:\\Games\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
+        "projectPath": "E:\\Hw\\Github edit project\\NguyenDuongHungBTH\\NguyenDuongHungBTH.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "E:\\Games\\NguyenDuongHungBTH\\obj\\",
+        "outputPath": "E:\\Hw\\Github edit project\\NguyenDuongHungBTH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"
