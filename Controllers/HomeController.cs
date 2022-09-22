@@ -18,14 +18,9 @@ public class HomeController : Controller
         return View();
     }
     [HttpPost]
-    public IActionResult Index(string FullName)
+    public IActionResult Index(int Age)
     {
-        ViewBag.name = "Hello " + FullName;
+        ViewBag.age = "HAHA,già rồi còn chưa có ny =)))";
         return View();
-    }
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
