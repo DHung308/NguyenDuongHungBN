@@ -43,7 +43,7 @@ namespace NguyenDuongHungBTH.models.Process
             //Giai pt bac 1
             if(heSoB ==0)
             {
-                //Neu b= 0 vaf c=0 thif phuowng trinh vo so nghiem
+                //Neu b= 0 va c=0 thi phuong trinh vo so nghiem
                 if(heSoC==0)
             {
                 message ="Phuong trinh co vo so nghiem";
